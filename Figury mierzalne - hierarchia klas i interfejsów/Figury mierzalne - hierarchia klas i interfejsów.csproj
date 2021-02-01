@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Figury_mierzalne___hierarchia_klas_i_interfejsów</RootNamespace>
+  </PropertyGroup>
+
+</Project>
